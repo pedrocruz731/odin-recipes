@@ -1,0 +1,27 @@
+body.frontpage{
+    background-color:bisque;
+}
+body.lasagnarecipe{
+    background-color:rgb(191, 154, 201);
+}
+body.hamburgerrecipe{
+    background-color:rgb(84, 82, 197);
+}
+h1 {
+    color: rgb(65, 153, 42);
+}
+
+
+p {
+    color:rgb(165, 111, 41);
+}
+
+.fooddisplay{
+    /* opacity: 10%; */
+    height: auto;
+    width: 900px;
+    border-style: ridge;
+    border-radius: 40px;
+    border-color: cadetblue;
+}
+

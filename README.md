@@ -1,3 +1,3 @@
 # odin-recipes
 
-Project for creating recipes, well see how it goes
+Project for creating recipes, well see how it goes.
